@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-https://github.com/irfangg/cicd-test/workflows/Continuous%20Integration/badge.svg
+ ![](https://github.com/irfangg/cicd-test/workflows/Continuous%20Integration/badge.svg)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
