@@ -18,6 +18,13 @@ jobs:
         with:
           node-version: '14'
 
+      - name: Cache dependencies
+        uses: actions/cache@v2
+        with:
+          path: |
+            **/node_modules
+          key: ${{ runner.os }}-${{ hashFiles('**/yarn-lock.json') }}
+
       - name: Install Dependencies
         run: yarn  
 
