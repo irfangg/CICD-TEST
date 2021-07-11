@@ -18,5 +18,8 @@ jobs:
         with:
           node-version: '14'
 
+      - name: Install Dependencies
+        run: yarn  
+
       - name: Run deploy script
         run: yarn deploy
