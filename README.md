@@ -1,7 +1,9 @@
-# Getting Started with Create React App
+# CICD Test
 
  ![](https://github.com/irfangg/cicd-test/workflows/Continuous%20Integration/badge.svg)
  ![](https://github.com/irfangg/cicd-test/workflows/Continuous%20Delivery/badge.svg)
+ 
+ CICD Test: <a href='https://irfangg.github.io/cicd-test'>https://irfangg.github.io/cicd-test</a>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
