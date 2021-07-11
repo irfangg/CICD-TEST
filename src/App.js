@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        Git hub profile : <a href='https://github.com/irfangg'>irfangg</a>
       </header>
     </div>
   );
