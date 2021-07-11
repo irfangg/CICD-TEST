@@ -18,8 +18,5 @@ jobs:
         with:
           node-version: '14'
 
-      - name: Clean install dependencies
-        run: npm ci
-
       - name: Run deploy script
         run: yarn deploy
