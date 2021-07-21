@@ -18,6 +18,46 @@ function App() {
           Learn React
         </a>
       </header>
+      <div className='outerMost'>
+          <div>Some component</div>
+          <div>One more component</div>
+          <div className='rows'>
+            <div className='row'>
+              <input value='' />
+              <div className='suggestions'>
+                <ul>
+                  <li>option 1</li>
+                  <li>option 1</li>
+                  <li>option 1</li>
+                  <li>option 1</li>
+                </ul>
+              </div>
+            </div>
+            <div className='row'>
+              <input value='' />
+              <div className='suggestions'>
+                <ul>
+                  <li>option 1</li>
+                  <li>option 1</li>
+                  <li>option 1</li>
+                  <li>option 1</li>
+                </ul>
+              </div>
+            </div>
+            <div className='row'>
+              <input value='' />
+              <div className='suggestions'>
+                <ul>
+                  <li>option 1</li>
+                  <li>option 1</li>
+                  <li>option 1</li>
+                  <li>option 1</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div><button>click me</button></div>
+      </div>
     </div>
   );
 }
